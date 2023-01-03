@@ -20,7 +20,7 @@ This mini project was created to learn how to deploy to [railway.app](https://ra
 
 ```
 npm install
-node run start
+npm run start
 ```
 
 ## Authors
